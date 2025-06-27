@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.29.43</domain>
+<!--        <domain includeSubdomains="true">10.0.2.2</domain>-->
+        <!-- Add your computer's IP if testing on a real device -->
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">awaaz-backend-alb-820503857.eu-north-1.elb.amazonaws.com</domain>
+    </domain-config>
+</network-security-config>
