@@ -4,6 +4,8 @@ Awaaz is an anonymous whistleblower platform that allows citizens to report corr
 
 ---
 
+[Awaaz Backend](https://github.com/shaurya-afk/awaaz-backend)
+
 ## 📱 Install the App
 
 You can install the latest version of Awaaz by downloading the APK from the GitHub Releases section.
